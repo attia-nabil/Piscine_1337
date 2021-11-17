@@ -1,0 +1,5 @@
+Credentials cache: API:B9CD2C03-51E7-453E-B4E4-D61ED662CE9E
+        Principal: nattia@1337.MA
+
+  Issued                Expires               Principal
+Aug 14 16:52:54 2021  Aug 15 02:52:42 2021  krbtgt/1337.MA@1337.MA
